@@ -1,0 +1,23 @@
+div {
+    display: flex;
+}
+
+div > img {
+
+    /*width: 49%;*/
+    /*display: inline-block;*/
+    width: 400px;
+    height: 400px;
+    order: 1;
+}
+
+p {
+    /*width: 49%;*/
+    /*display: inline-block;*/
+    /*position: absolute;*/
+    order: 2;
+}
+
+h1 {
+    text-align: center;
+}
